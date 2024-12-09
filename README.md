@@ -65,10 +65,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# Nombre del Proyecto
+# Assestment
 
 ## Descripción
-Breve descripción del proyecto y su funcionalidad.
+Aplicacion para facilitar las citas dentro de una organizacion de salud.
 
 ## Requisitos
 - Java 17 o superior
@@ -77,7 +77,7 @@ Breve descripción del proyecto y su funcionalidad.
 ## Instalación
 1. Clona el repositorio:
    ```
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+   git clone https://github.com/Njco1/Assessment-NicolasAguirreFlorez.git
    ```
 2. Navega hasta el directorio del proyecto:
    ```
@@ -94,33 +94,9 @@ Breve descripción del proyecto y su funcionalidad.
 
 ## Uso
 1. Inicia la aplicación siguiendo los pasos de instalación.
-2. Accede a la interfaz web de la aplicación en tu navegador (por ejemplo, `http://localhost:8080`).
+2. Accede a la interfaz web de la aplicación en tu navegador 
 3. Crea una cuenta de usuario o inicia sesión.
-4. Navega por las diferentes funcionalidades de la aplicación, como agregar productos al carrito, ver el total de la compra, etc.
-5. Completa el proceso de compra.
+4. Navega por las diferentes funcionalidades de la aplicación.
 
-## Contribución
-Si deseas contribuir al proyecto, sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tus cambios: `git checkout -b mi-nueva-caracteristica`.
-3. Realiza los cambios y commits necesarios.
-4. Envía un pull request con tus cambios.
 
-Nos aseguraremos de revisar tu solicitud y de incorporar tus contribuciones al proyecto.
 
-## Contacto
-Si tienes alguna pregunta, sugerencia o problema, puedes comunicarte con nosotros a través de:
-- Correo electrónico: proyecto@example.com
-- Twitter: @proyecto
-- LinkedIn: Nombre del Proyecto
-
-Estaremos encantados de ayudarte.
-
-## Información del Proyecto
-- **Versión**: 1.0.0
-- **Tecnologías utilizadas**: Java 17, Maven, Spring Boot, Hibernate, MySQL
-- **Autor(es)**: Nombre del autor(es)
-- **Licencia**: Indica la licencia del proyecto (por ejemplo, MIT, Apache 2.0, etc.)
-- **Estado del proyecto**: En desarrollo, Estable, Mantenimiento, etc.
-- **Fecha de lanzamiento**: Fecha de lanzamiento de la versión actual
-- **Próximas mejoras**: Enumera las mejoras o características planificadas para futuras versiones
